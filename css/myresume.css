@@ -26,3 +26,30 @@ h1 .text-primary {
 .text-primary {
 	color: #4028EB!important;
 }
+#sideNav .navbar-nav .nav-item .nav-link {
+	text-transform: none;
+}
+
+a {
+	color: #4028EB;
+}
+
+a:active, a:focus, a:hover {
+	color: #4028EB;
+}
+
+.social-icons a:hover {
+	background-color: #4028EB;
+}
+
+.dev-icons .list-inline-item i:hover {
+    color: #4028EB;
+}
+
+.graph_set {
+	margin-top: 3rem;
+}
+
+.small-text {
+	font-size: 1.2rem;
+}
