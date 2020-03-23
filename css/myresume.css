@@ -12,4 +12,17 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform: none;
 	letter-spacing: -0.05rem;
 }
+h1 .text-primary {
+	font-size: 3rem;
+	letter-spacing: -0.05rem;
+	line-height: 3rem;
+}
+
+.bg-primary {
+	background-color: #4028EB!important;
+	background-image: url("img/otis-redding.png");
+}
+
+.text-primary {
+	color: #4028EB!important;
 }
