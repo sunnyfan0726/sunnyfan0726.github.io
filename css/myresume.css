@@ -18,8 +18,9 @@ h1 .text-primary {
 	line-height: 3rem;
 	text-transform:capitalize;
 }
+
 .bg-primary {
-	 background-color: #6610f2;!important;
+	background-color: #6610f2!important;
 	background-image: url("img/otis-redding.png");
 }
 
@@ -43,7 +44,7 @@ a:active, a:focus, a:hover {
 }
 
 .dev-icons .list-inline-item i:hover {
-    color:#6610f2;
+    color: #6610f2;
 }
 
 .graph_set {
