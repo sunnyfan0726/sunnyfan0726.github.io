@@ -18,33 +18,33 @@ h1 .text-primary {
 	line-height: 3rem;
 	text-transform:capitalize;
 }
-
+p{
 .bg-primary {
-	background-color: #6610f2!important;
+	background-color: #7e07a6!important;
 	background-image: url("img/otis-redding.png");
 }
 
 .text-primary {
-	color: #6610f2!important;
+	color: #7e07a6!important;
 }
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
 }
 
 a {
-	color: #6610f2;
+	color: #7e07a6;
 }
 
 a:active, a:focus, a:hover {
-	color: #6610f2;
+	color: #7e07a6;
 }
 
 .social-icons a:hover {
-	background-color: #6610f2;
+	background-color: #7e07a6;
 }
 
 .dev-icons .list-inline-item i:hover {
-    color: #6610f2;
+    color: ##7e07a6;
 }
 
 .graph_set {
